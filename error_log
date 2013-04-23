@@ -1,0 +1,5 @@
+[02-Feb-2013 14:30:54 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/parkclub/public_html/wp-content/themes/twentyeleven/comments.php on line 4
+[02-Feb-2013 14:31:10 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/parkclub/public_html/wp-content/themes/twentyeleven/comments.php on line 4
+[02-Feb-2013 14:31:16 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/parkclub/public_html/wp-content/themes/twentyeleven/comments.php on line 4
+[02-Feb-2013 15:14:32 UTC] PHP Warning:  require(/home/parkclub/public_html/wp-includes/comment.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/parkclub/public_html/wp-settings.php on line 123
+[02-Feb-2013 15:14:32 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/home/parkclub/public_html/wp-includes/comment.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/parkclub/public_html/wp-settings.php on line 123

@@ -1,0 +1,4 @@
+[24-Jan-2013 02:13:29 UTC] PHP Warning:  Division by zero in /home/parkclub/public_html/wp-admin/custom-header.php on line 816
+[24-Jan-2013 02:13:29 UTC] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/parkclub/public_html/wp-includes/media.php on line 928
+[24-Jan-2013 02:13:29 UTC] PHP Warning:  imageantialias() expects parameter 1 to be resource, boolean given in /home/parkclub/public_html/wp-includes/class-wp-image-editor-gd.php on line 238
+[24-Jan-2013 02:13:29 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/parkclub/public_html/wp-includes/class-wp-image-editor-gd.php on line 240
